@@ -1,7 +1,8 @@
 {
-  "name": "uwdoem/boundless",
+  "name": "uwdoem/registrar",
   "description": "University of Washington `Boundless` themes for the Framework web framework.",
   "require": {
-    "athens/core": "0.*"
+    "athens/core": "0.*",
+    "uwdoem/boundless": "0.*"
   }
 }

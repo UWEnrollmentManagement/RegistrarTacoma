@@ -1,4 +1,4 @@
-# Boundless
+# Registrar
 
 University of Washington, Office of the University Registrar themes for the [Athens](https://github.com/AthensFramework/core) web framework.
 

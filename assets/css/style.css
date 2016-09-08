@@ -2,16 +2,6 @@ div.uw-hero-image {
     background-image:url('../images/registrar-line.jpg');
 }
 
-#page-content,
-#wordmark-header,
-.dawgdrops-inner,
-div.breadcrumbs-container,
-div.page-width {
-    width:65%;
-    margin-left:auto;
-    margin-right:auto;
-}
-
 h1.site-title {
     text-shadow: 1px 1px 2px rgba(0,0,0,.5);
     color:white;
